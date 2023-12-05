@@ -1,20 +1,17 @@
-<h1>JWipe - Disk Sanitization</h1>
-
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+<h1>Vulnerability Management with OpenVAS</h1>
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+This project demonstrates the execution of a Vulnerability Management lifecycle iteration using the National Institute of Standards and Technology’s Cybersecurity Framework to improve the security posture of a business. A vulnerability scan will be walked-through using the software OpenVAS (preinstalled on a Ubuntu box provided by TryHackMe). The six phases of the Vulnerability Management Lifecycle are: Discover, Prioritize, Assess, Report, Remediate and Verify.
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>OpenVAS</b> 
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Ubuntu 18.04.6</b> 
 
 <h2>Program walk-through:</h2>
 
