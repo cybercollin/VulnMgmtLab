@@ -17,7 +17,7 @@ This project demonstrates the execution of a Vulnerability Management lifecycle 
 
 <p align="center">
 On the Linux box I navigated to the Greenbone Source Edition web application, in this lab environment it was reached through the browser at http://10.10.23.104:9392. Logged in with a username and password of admin/admin. <br/>
-<img src="https://imgur.com/soQs5Xm" height="80%" width="80%" alt="OpenVAS Vulnerability Management Scanning"/>
+<img src="https://i.imgur.com/soQs5Xm" height="80%" width="80%" alt="OpenVAS Vulnerability Management Scanning"/>
 <br />
 <br />
 
