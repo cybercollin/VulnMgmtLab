@@ -16,7 +16,7 @@ This project demonstrates the execution of a Vulnerability Management lifecycle 
 <h2>Project walk-through:</h2>
 
 <p align="center">
- @@Discover@@
+<h3><i>Discover</i></h3><br/>
 On the Linux box I navigated to the Greenbone Source Edition web application, in this lab environment it was reached through the browser at http://10.10.23.104:9392. Logging in with our sample credentials within this lab brings us to the Web GUI interface: <br/><br/>
 <img src="https://i.imgur.com/Ul1sxzR.png" height="80%" width="80%" alt="OpenVAS Vulnerability Management Scanning"/>
 <br />
@@ -39,7 +39,7 @@ Next, set up a new scanning task. I hovered over Scans and selected Tasks to ope
 <img src="https://i.imgur.com/VrZRl2v.png" height="80%" width="80%" alt="OpenVAS Vulnerability Management Scanning"/>
 <br />
 <br />
-
+<h3><i>Prioritize</i></h3><br/>
 
 
 
