@@ -31,6 +31,14 @@ I added a new target called Windows and entered the local IP address (there is a
 <img src="https://i.imgur.com/FG5rQ9C.png" height="80%" width="80%" alt="OpenVAS Vulnerability Management Scanning"/>
 <br />
 <br />
+Next, set up a new scanning task. I hovered over Scans and selected Tasks to open the task scheduler. I called the new task Windows-Task and selected the Windows machine we previously configured:  <br/><br/>
+<img src="https://i.imgur.com/X4i4Otx.png" height="80%" width="80%" alt="OpenVAS Vulnerability Management Scanning"/>
+<br />
+<br />
+<img src="https://i.imgur.com/VrZRl2v.png" height="80%" width="80%" alt="OpenVAS Vulnerability Management Scanning"/>
+<br />
+<br />
+
 
 
 
