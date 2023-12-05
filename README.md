@@ -13,7 +13,7 @@ This project demonstrates the execution of a Vulnerability Management lifecycle 
 
 - <b>Ubuntu 18.04.6</b> 
 
-<h2>Program walk-through:</h2>
+<h2>Project walk-through:</h2>
 
 <p align="center">
 Launch the utility: <br/>
