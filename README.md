@@ -40,8 +40,11 @@ Next, set up a new scanning task. I hovered over Scans and selected Tasks to ope
 <br />
 <br />
 <h3><i>Prioritize</i></h3><br/>
-
-
+Upon completion of the scan, we can view the results and sort the data by Severity. The critical vulnerabilities that lead to database exposure or critical data leaks are the most important to deal with first:
+<br/><br/>
+<img src="https://i.imgur.com/TKTHgie.png" height="80%" width="80%" alt="OpenVAS Vulnerability Management Scanning"/>
+<br />
+<br />
 
 
 </p>
