@@ -59,6 +59,12 @@ OpenVAS offers a comprehensive breakdown for researchers if you click on individ
 <img src="https://i.imgur.com/lvxM9tq.png" height="80%" width="80%" alt="OpenVAS Vulnerability Management Scanning"/>
 <br />
 <br />
+<img src="https://i.imgur.com/e4mbrZ3.png" height="80%" width="80%" alt="OpenVAS Vulnerability Management Scanning"/>
+<br />
+<br />
+In this case the issue is that the version of PHP used on the Windows machine running XAMPP was deprecated years ago and is unsafe to use due to many known vulnerabilities that were addressed in future versions. The solution is straightforward: <b>Update the PHP version to a version that is still supported.</b>
+
+Vulnerability scanners are valuable tools to expedite vulnerability management processes, however, they are prone to false-positive results, as well. Results of reports should be confirmed by the security engineer before being passed onto the remediation team. Results of issues like default credentials can be easily confirmed by a remote credential login attempt by the engineer to verify the issue is actually a true-positive vulnerability.<br /><br />
 
 
 
