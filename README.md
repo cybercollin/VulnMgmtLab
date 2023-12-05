@@ -24,7 +24,7 @@ On the Linux box I navigated to the Greenbone Source Edition web application, in
 <br />
 <br />
 The first step in vulnerability management is to take an inventory of assets (software, hardware, services, configurations etc.) that will be involved during a scan of the systems and networks associated. I added a new Target by hovering over Configuration and clicking Targets: <br/><br/>
-<img src="https://i.imgur.com/xzfth21.png" height="80%" width="80%" alt="OpenVAS Vulnerability Management Scanning"/>
+<img src="https://i.imgur.com/3Xn6t7a.png" height="80%" width="80%" alt="OpenVAS Vulnerability Management Scanning"/>
 <br />
 <br />
 
