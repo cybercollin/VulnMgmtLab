@@ -68,7 +68,28 @@ Vulnerability scanners are valuable tools to expedite vulnerability management p
 
 <h3><i>Remediation</i></h3><br/>
 
+After determining the most severe vulnerabilities and reporting on them, the cybersecurity engineer should deliver the data to the appropriate stakeholders to be remediated. Remedial action, such as thoroughly addressing or patching vulnerabilities, is the best course of action. If complete remediation is not feasible, businesses might mitigate, which entails lowering the risk of exploitation or minimizing the potential harm. Finally, security engineers can acknowledge their vulnerability, for instance, when the risk involved is low, and choose to do nothing.<br /><br />
 
+In the lab I selected the most severe vulnerability of using a deprecated PHP version and selected “Create New Ticket” from the menu. I wrote a sample ticket of the issue and a quick explanation of the remediation process:
+<br />
+<br />
+<img src="https://i.imgur.com/gOeKo2L.png" height="80%" width="80%" alt="OpenVAS Vulnerability Management Scanning"/>
+<br />
+<br />
+<img src="https://i.imgur.com/JgkF0in.png" height="80%" width="80%" alt="OpenVAS Vulnerability Management Scanning"/>
+<br />
+<br />
+Generated tickets can be viewed by navigating to Resilience and clicking Remediation Tickets:
+<br />
+<br />
+<img src="https://i.imgur.com/CGH1Eaq.png" height="80%" width="80%" alt="OpenVAS Vulnerability Management Scanning"/>
+<br />
+<br />
+<img src="https://i.imgur.com/lvxM9tq.png" height="80%" width="80%" alt="OpenVAS Vulnerability Management Scanning"/>
+<br />
+<br />
+
+Once the appropriate remediation team corrects the issue, they will edit the ticket to be completed. 
 </p>
 <!--
  ```diff
