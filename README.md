@@ -52,7 +52,7 @@ In the case of this lab, as we saw in the previous image, several of our top sev
 <img src="https://i.imgur.com/LEW600g.png" height="80%" width="80%" alt="OpenVAS Vulnerability Management Scanning"/>
 <br />
 <br />
-<h3><i>Reporting</i></h3>
+<h3><i>Reporting</i></h3><br/>
 Documentation and reporting on known vulnerabilities is a critical component of a cybersecurity engineer’s workflow. Keeping a good record of vulnerability scanning ensures effective communication throughout the organization, accountability for due diligence and regulatory compliance.<br/><br/>
 
 OpenVAS offers a comprehensive breakdown for researchers if you click on individual vulnerabilities found during a scan. I chose to investigate the PHP End of Life Detection (Windows) as it presented the highest severity. 
@@ -66,7 +66,7 @@ In this case the issue is that the version of PHP used on the Windows machine ru
 
 Vulnerability scanners are valuable tools to expedite vulnerability management processes, however, they are prone to false-positive results, as well. Results of reports should be confirmed by the security engineer before being passed onto the remediation team. Results of issues like default credentials can be easily confirmed by a remote credential login attempt by the engineer to verify the issue is actually a true-positive vulnerability.<br /><br />
 
-
+<h3><i>Remediation</i></h3><br/>
 
 
 </p>
