@@ -1,7 +1,7 @@
 <h1>Vulnerability Management with OpenVAS</h1>
 
 <h2>Description</h2>
-This project demonstrates the execution of a Vulnerability Management lifecycle iteration using the National Institute of Standards and Technology’s Cybersecurity Framework to improve the security posture of a business. A vulnerability scan will be walked-through using the software OpenVAS (preinstalled on a Ubuntu box provided by TryHackMe). The six phases of the Vulnerability Management Lifecycle are: Discover, Prioritize, Assess, Report, Remediate and Verify.
+This project demonstrates the execution of a Vulnerability Management lifecycle iteration using the National Institute of Standards and Technology’s Cybersecurity Framework to improve the security posture of a business. A vulnerability scan will be walked-through using the software OpenVAS (preinstalled on a Ubuntu box provided by TryHackMe). The six phases of the Vulnerability Management Lifecycle are: <i>Discover, Prioritize, Assess, Report, Remediate and Verify.</i>
 <br />
 
 
