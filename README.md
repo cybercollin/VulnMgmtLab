@@ -27,6 +27,13 @@ The first step in vulnerability management is to take an inventory of assets (so
 <img src="https://i.imgur.com/3Xn6t7a.png" height="80%" width="80%" alt="OpenVAS Vulnerability Management Scanning"/>
 <br />
 <br />
+I added a new target called Windows and entered the local IP address (there is already a virtual instance of Windows on this simulated network available through the lap platform). At this point a security engineer could deploy this across many subnets and systems for a more thorough scan of the organization: <br/><br/>
+<img src="https://i.imgur.com/FG5rQ9C.png" height="80%" width="80%" alt="OpenVAS Vulnerability Management Scanning"/>
+<br />
+<br />
+
+
+
 
 </p>
 <!--
