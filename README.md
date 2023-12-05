@@ -49,7 +49,16 @@ Upon completion of the scan, we can view the results and sort the data by Severi
 The main purpose of the Assess step is to establish a working baseline for the issues plaguing the assets of the organization. Consistency in the baseline helps to stay on top of vulnerabilities as the landscape of cybersecurity is forever evolving and the business needs usually change over time. <br/><br/>
 
 In the case of this lab, as we saw in the previous image, several of our top severity vulnerabilities frequently involve the PHP server-side scripting language. I filtered the results based on the keyword PHP to see how many total vulnerabilities were involved with this technology. The search resulted in 173 out of the 341 initial results (nearly half of all the problems were based around PHP):
+<img src="https://i.imgur.com/LEW600g.png" height="80%" width="80%" alt="OpenVAS Vulnerability Management Scanning"/>
+<br />
+<br />
+<h3><i>Reporting</i></h3>
+Documentation and reporting on known vulnerabilities is a critical component of a cybersecurity engineer’s workflow. Keeping a good record of vulnerability scanning ensures effective communication throughout the organization, accountability for due diligence and regulatory compliance.<br/><br/>
 
+OpenVAS offers a comprehensive breakdown for researchers if you click on individual vulnerabilities found during a scan. I chose to investigate the PHP End of Life Detection (Windows) as it presented the highest severity. 
+<img src="https://i.imgur.com/cstGnGN.png" height="80%" width="80%" alt="OpenVAS Vulnerability Management Scanning"/>
+<br />
+<br />
 </p>
 <!--
  ```diff
