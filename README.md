@@ -21,7 +21,7 @@ On the Linux box I navigated to the Greenbone Source Edition web application, in
 <br />
 <br />
 
-
+</p>
 <!--
  ```diff
 - text in red
